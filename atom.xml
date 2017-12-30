@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>多余</title>
+  
+  <subtitle>Fibuter</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://Fibuter.github.com/"/>
+  <updated>2017-12-23T17:16:07.074Z</updated>
+  <id>https://Fibuter.github.com/</id>
+  
+  <author>
+    <name>多余</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个有故事的云</title>
+    <link href="https://Fibuter.github.com/2017/12/23/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E7%BD%91%E6%98%93%E4%BA%91/"/>
+    <id>https://Fibuter.github.com/2017/12/23/有故事的网易云/</id>
+    <published>2017-12-23T03:44:42.000Z</published>
+    <updated>2017-12-23T17:16:07.074Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>太急没有故事，太缓没有人生。</p><p>一包烟能解决的，就不要浪费眼泪了</p></blockquote><p>如果有一天我们绝交了翻脸了，你出门跟全世界骂我，我也不会吧你哭着笑着在深夜之分享给我的秘密告诉别人。一个人吧能让自己身败名裂，遭人耻笑的事情告诉你的一瞬间，一定是把你当成了最轻紧的人。朋友也好，前任也罢，人生诸事很难长情，我愿始终记得你把心掏给我的瞬间，并守护它。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;太急没有故事，太缓没有人生。&lt;/p&gt;
+&lt;p&gt;一包烟能解决的，就不要浪费眼泪了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果有一天我们绝交了翻脸了，你出门跟全世界骂我，我也不会吧你哭着笑着在深夜之分享给我的秘密告诉别人。一个人吧能让自己身败名裂，遭
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
